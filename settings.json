@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "YOURMOM",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "arclightsmp.aternos.me:14796",
     "port": 25565,
     "version": "",
     "try-creative": false
